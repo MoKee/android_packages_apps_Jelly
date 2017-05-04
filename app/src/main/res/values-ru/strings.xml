@@ -15,39 +15,55 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Браузер</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">Новая вкладка</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">Вкладка «инкогнито»</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">Обновить</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">Добавить в избранное</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">Поделится</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">Избранное</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">История версий</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
+  <string name="menu_shortcut">Добавить ярлык</string>
   <!-- Menu action: show settings -->
   <string name="menu_settings">Настройки</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">Загрузить</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">Открыть в новой вкладке</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">Отправить</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Закрыть</string>
   <!-- Download dialog: title -->
+  <string name="download_title">Загрузить файл</string>
   <!-- Download dialog: message -->
+  <string name="download_message">Вы хотите загрузить %1$s на sdcard?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Загрузить</string>
   <!-- Permission error dialog: title -->
+  <string name="permission_error_title">Ошибка доступа</string>
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Спросить снова</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <!-- Shortcut: the current webPage has been added to the launcher -->
+  <string name="shortcut_added">Добавить на главный экран</string>
   <!-- Settings: title -->
   <string name="settings_title">Настройки</string>
   <!-- Settings: search engine preference title -->
+  <string name="pref_search_engine">Поисковая система</string>
   <!-- Settings: home page preference title -->
+  <string name="pref_start_page">Домашняя страница</string>
   <!-- Settings: select home page dialog title -->
+  <string name="pref_start_page_dialog_title">Выбрать домашнюю страницу</string>
   <!-- Settings: select home page dialog message -->
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Сброс</string>
@@ -55,6 +71,7 @@
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
+  <string name="pref_js_title">Javascript</string>
   <!-- Settings: javascript preference summary -->
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Размещение</string>
@@ -70,11 +87,13 @@
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <!-- History: delete history dialog title -->
+  <string name="history_delete_title">Очистить историю</string>
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Очистить</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
+  <string name="favorite_title">Избранное</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
