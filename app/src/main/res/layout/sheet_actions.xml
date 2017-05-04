@@ -14,13 +14,11 @@
      limitations under the License.
 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:minHeight="180dp"
     android:orientation="vertical"
-    app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
     tools:ignore="UseCompoundDrawables">
 
     <LinearLayout
@@ -55,7 +53,7 @@
 
         <ImageView
             style="@style/AppTheme.BottomSheetIcon"
-            app:srcCompat="@drawable/ic_favorite_add" />
+            android:src="@drawable/ic_favorite_add" />
 
         <TextView
             style="@style/AppTheme.BottomSheetText"
@@ -69,7 +67,7 @@
 
         <ImageView
             style="@style/AppTheme.BottomSheetIcon"
-            app:srcCompat="@drawable/ic_download" />
+            android:src="@drawable/ic_download" />
 
         <TextView
             style="@style/AppTheme.BottomSheetText"
