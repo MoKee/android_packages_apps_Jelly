@@ -51,7 +51,7 @@
   <!-- Permission error dialog: title -->
   <string name="permission_error_title">權限許可錯誤</string>
   <!-- Permission error dialog: message for denied storage access-->
-  <string name="permission_error_storage">瀏覽器需要存取儲存空間的使用權限。請授予權限以便儲存網頁中的檔案。</string>
+  <string name="permission_error_storage">瀏覽器需要存取儲存空間的許可權。請授予權限以便儲存網頁中的檔案。</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">再次詢問</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
