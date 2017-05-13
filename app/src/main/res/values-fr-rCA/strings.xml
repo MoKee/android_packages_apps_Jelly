@@ -15,9 +15,13 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Navigateur</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">Nouvel onglet</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">Onglet de navigation privée</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">Actualiser</string>
   <!-- Menu action: add current page to favorites -->
   <string name="menu_fav_add">Ajouter aux Favoris</string>
   <!-- Menu action: share current page -->
@@ -33,19 +37,25 @@
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">Télécharger</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">Ouvrir dans un nouvel onglet</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">Envoyer à</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Refuser</string>
   <!-- Download dialog: title -->
+  <string name="download_title">Téléchargement de fichier</string>
   <!-- Download dialog: message -->
+  <string name="download_message">Voulez-vous télécharger %1$s sur la carte SD ?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Télécharger</string>
   <!-- Permission error dialog: title -->
+  <string name="permission_error_title">Erreur d\'autorisation</string>
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Demander à nouveau</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <!-- Shortcut: the current webPage has been added to the launcher -->
+  <string name="shortcut_added">Ajouté à l\'écran d\'accueil</string>
   <!-- Settings: title -->
   <string name="settings_title">Préférences</string>
   <!-- Settings: search engine preference title -->
@@ -58,6 +68,7 @@
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Réinitialiser</string>
   <!-- Settings: privacy and security category -->
+  <string name="pref_privacy_security">Confidentialité &amp; sécurité</string>
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
@@ -91,11 +102,13 @@
   <!-- Favorite: title -->
   <string name="favorite_title">Favoris</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
+  <string name="favorite_added">Ajouté aux favoris</string>
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Titre</string>
   <!-- Favorite: edit dialog: url of the favorite-->
+  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Édition</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
