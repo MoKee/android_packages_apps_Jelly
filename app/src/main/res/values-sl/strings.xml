@@ -19,6 +19,7 @@
   <!-- Menu action: create new tab -->
   <string name="menu_new_tab">Nov zavihek</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">Način brez beleženja zgodovine</string>
   <!-- Menu action: reload current page -->
   <string name="menu_reload">Osveži</string>
   <!-- Menu action: add current page to favorites -->
@@ -36,11 +37,15 @@
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">Prenesi</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">Odpri v novem zavihku</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">Pošlji v</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Opusti</string>
   <!-- Download dialog: title -->
+  <string name="download_title">Prenesi datoteko</string>
   <!-- Download dialog: message -->
+  <string name="download_message">Ali želite prenesti %1$s na kartico Sd?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Prenesi</string>
   <!-- Permission error dialog: title -->
@@ -55,9 +60,11 @@
   <!-- Settings: title -->
   <string name="settings_title">Nastavitve</string>
   <!-- Settings: search engine preference title -->
+  <string name="pref_search_engine">Iskalnik</string>
   <!-- Settings: home page preference title -->
   <string name="pref_start_page">Domača stran</string>
   <!-- Settings: select home page dialog title -->
+  <string name="pref_start_page_dialog_title">Izberite domačo stran</string>
   <!-- Settings: select home page dialog message -->
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Ponastavi</string>
@@ -70,25 +77,31 @@
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Lokacija</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
+  <string name="pref_location_summary">Dovoli spletnim stranem zahtevo za dostop do vaše lokacije</string>
   <!-- Settings: cookie preference title -->
+  <string name="pref_cookie_title">Piškotki</string>
   <!-- Settings: cookie preference summary -->
+  <string name="pref_cookie_summary">Dovoli spletnim stranem shranjevanje in nalaganje piškotkov</string>
   <!-- Settings: advanced share preference title -->
+  <string name="pref_screenshot_snap_title">Napredna souporaba</string>
   <!-- Settings: advanced share preference summary -->
   <!-- Settings: clear cookie -->
   <string name="pref_cookie_clear">Počisti piškotke</string>
   <!-- Settings: clear cookie toast confirmation -->
-  <string name="pref_cookie_clear_done">Vsi piškotki počiščeni</string>
   <!-- History: title -->
   <string name="history_title">Zgodovina</string>
   <!-- History: empty status text -->
+  <string name="history_empty">Tukaj ni ničesar, brskajte po internetu za ogled zgodovine tukaj</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <string name="history_date_format">EEEE MMMM dd yyyy, HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Počisti zgodovino</string>
   <!-- History: delete history dialog warning message -->
+  <string name="history_delete_message">Izbrisali boste vso zgodovino, tega dejanja ni mogoče razveljaviti. Ali želite nadaljevati?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Počisti</string>
   <!-- History: delete history "working" dialog-->
+  <string name="history_deleting_message">Čiščenje zgodovine \u2026</string>
   <!-- Favorite: title -->
   <string name="favorite_title">Priljubljene</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
@@ -98,7 +111,6 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Naslov</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">Url</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Uredi</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->

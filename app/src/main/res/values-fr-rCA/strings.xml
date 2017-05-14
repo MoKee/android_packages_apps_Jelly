@@ -72,9 +72,7 @@
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">Javascript</string>
   <!-- Settings: javascript preference summary -->
-  <string name="pref_js_summary">Activer Javascript</string>
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Lieu</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
@@ -87,7 +85,6 @@
   <!-- Settings: clear cookie -->
   <string name="pref_cookie_clear">Effacer les cookies</string>
   <!-- Settings: clear cookie toast confirmation -->
-  <string name="pref_cookie_clear_done">Effacer tous les cookies</string>
   <!-- History: title -->
   <string name="history_title">Historique</string>
   <!-- History: empty status text -->
@@ -108,7 +105,6 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Titre</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Édition</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->

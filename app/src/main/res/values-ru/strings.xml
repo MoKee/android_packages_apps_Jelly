@@ -71,7 +71,6 @@
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">Javascript</string>
   <!-- Settings: javascript preference summary -->
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Размещение</string>
