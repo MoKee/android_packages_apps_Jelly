@@ -15,26 +15,37 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">ブラウザ</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">新規タブ</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">シークレットタブ</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">再読込</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">お気に入りに追加</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">共有</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">お気に入り</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">履歴</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
+  <string name="menu_shortcut">ショートカットを追加</string>
   <!-- Menu action: show settings -->
   <string name="menu_settings">設定</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">ダウンロード</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">新しいタブで開く</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">へ送る</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">閉じる</string>
   <!-- Download dialog: title -->
+  <string name="download_title">ダウンロードしたファイル</string>
   <!-- Download dialog: message -->
+  <string name="download_message">%1$s をSDカードにダウンロードしますか？</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">ダウンロード</string>
   <!-- Permission error dialog: title -->
@@ -74,10 +85,12 @@
   <string name="history_delete_positive">消去</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
+  <string name="favorite_title">お気に入り</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
+  <string name="favorite_edit_title">名前</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">編集</string>

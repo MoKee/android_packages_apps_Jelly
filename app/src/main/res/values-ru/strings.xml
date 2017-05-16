@@ -51,9 +51,11 @@
   <!-- Permission error dialog: title -->
   <string name="permission_error_title">Ошибка доступа</string>
   <!-- Permission error dialog: message for denied storage access-->
+  <string name="permission_error_storage">Для загрузки файлов, браузеру необходим доступ к устройству хранения данных. Предоставьте его для сохранения файлов из интернета</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Спросить снова</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
+  <string name="permission_error_forever">Доступ запрещен. Пожайлуста предоставьте доступ в настройках</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <string name="shortcut_added">Добавить на главный экран</string>
   <!-- Settings: title -->
@@ -68,6 +70,7 @@
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Сброс</string>
   <!-- Settings: privacy and security category -->
+  <string name="pref_privacy_security">Конфиденциальность &amp; безопасность</string>
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
