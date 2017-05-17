@@ -38,6 +38,8 @@
   <string name="menu_download">Stiahnuť</string>
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Otvoriť na novej karte</string>
+  <!-- Menu action: enable desktop mode -->
+  <!-- Menu action: enable phone mode -->
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Odoslať</string>
   <!-- Dialog action: dismiss -->

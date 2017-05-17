@@ -38,6 +38,8 @@
   <string name="menu_download">Завантажити</string>
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Відкрити у новій вкладці</string>
+  <!-- Menu action: enable desktop mode -->
+  <!-- Menu action: enable phone mode -->
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Надіслати до</string>
   <!-- Dialog action: dismiss -->

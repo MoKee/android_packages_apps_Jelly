@@ -30,6 +30,8 @@
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">다운로드</string>
   <!-- Menu action: open selected link in a new tab -->
+  <!-- Menu action: enable desktop mode -->
+  <!-- Menu action: enable phone mode -->
   <!-- Share webPage: "send to" dialog title -->
   <!-- Dialog action: dismiss -->
   <string name="dismiss">다시 묻지 않기</string>

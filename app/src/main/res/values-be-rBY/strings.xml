@@ -38,6 +38,8 @@
   <string name="menu_download">Спампаваць</string>
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Адчыніць у новай укладцы</string>
+  <!-- Menu action: enable desktop mode -->
+  <!-- Menu action: enable phone mode -->
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Даслаць</string>
   <!-- Dialog action: dismiss -->
