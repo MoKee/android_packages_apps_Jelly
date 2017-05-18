@@ -96,12 +96,15 @@
   <string name="history_title">История версий</string>
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
+  <string name="history_date_format">НННН ММММ дд гггг, ЧЧ:мм</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Очистить историю</string>
   <!-- History: delete history dialog warning message -->
+  <string name="history_delete_message">Вы собираетесь удалить всю историю, это действие нельзя отменить. Вы хотите продолжить?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Очистить</string>
   <!-- History: delete history "working" dialog-->
+  <string name="history_deleting_message">Очистить историю\u2026</string>
   <!-- Favorite: title -->
   <string name="favorite_title">Избранное</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->

@@ -39,7 +39,9 @@
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">在新标签页中打开</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">切换到桌面版页面</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">切换到手机版页面</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">发送至</string>
   <!-- Dialog action: dismiss -->
