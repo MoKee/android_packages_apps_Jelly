@@ -39,7 +39,9 @@
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Otevřít v nové kartě</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">Přepnout na klasickou verzi webu</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">Přepnout na mobilní verzi webu</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Odeslat na</string>
   <!-- Dialog action: dismiss -->
