@@ -15,23 +15,33 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">المتصفح</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">فتح تبويب جديد</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">فتح تبويب التخفي</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">إعادة تحميل</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">إضافة إلى المفضلة</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">مشاركة</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">المفضلة</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">سجل التاريخ</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
+  <string name="menu_settings">الإعدادات</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">تنزيل</string>
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">التبديل إلى وضع سطح المكتب</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">التبديل إلى وضع الجوال</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">إرسال إلى</string>
   <!-- Dialog action: dismiss -->
   <!-- Download dialog: title -->
   <!-- Download dialog: message -->
@@ -43,6 +53,7 @@
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <!-- Settings: title -->
+  <string name="settings_title">الإعدادات</string>
   <!-- Settings: search engine preference title -->
   <!-- Settings: home page preference title -->
   <!-- Settings: select home page dialog title -->
@@ -71,12 +82,14 @@
   <!-- History: delete history dialog button that erases all the history -->
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
+  <string name="favorite_title">المفضلة</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
+  <string name="favorite_edit_positive">تعديل</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <string name="favorite_edit_delete">حذف</string>
   <!-- Favorite: edit dialog: invalid url error message -->
