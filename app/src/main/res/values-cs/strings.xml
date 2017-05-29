@@ -49,7 +49,7 @@
   <!-- Download dialog: title -->
   <string name="download_title">Stáhnout soubor</string>
   <!-- Download dialog: message -->
-  <string name="download_message">Chcete stáhnout %1$s na SD kartu?</string>
+  <string name="download_message">Chcete stáhnout %1$s?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Ke stažení</string>
   <!-- Permission error dialog: title -->

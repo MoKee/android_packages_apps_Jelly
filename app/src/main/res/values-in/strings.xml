@@ -15,58 +15,91 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Peramban</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">Tab baru</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">Tab penyamaran</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">Muat ulang</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">Tambahkan ke favorit</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">Bagikan</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">Favorit</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">History</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
+  <string name="menu_shortcut">Tambahkan pintasan</string>
   <!-- Menu action: show settings -->
   <string name="menu_settings">Setelan</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">Unduh</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">Buka di tab baru</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">Beralih ke situs desktop</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">Beralih ke situs mobile</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">Kirim ke</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Abaikan</string>
   <!-- Download dialog: title -->
+  <string name="download_title">Unduh berkas</string>
   <!-- Download dialog: message -->
+  <string name="download_message">Apakah Anda ingin mengunduh %1$s?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Unduh</string>
   <!-- Permission error dialog: title -->
+  <string name="permission_error_title">Kesalahan perizinan</string>
   <!-- Permission error dialog: message for denied storage access-->
+  <string name="permission_error_storage">Browser membutuhkan akses ke penyimpanan untuk mengunduh berkas. Silakan berikan izin untuk menyimpan berkas dari web</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Tanya lagi</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
+  <string name="permission_error_forever">Izin ditolak secara permanen. Silakan berikan izin dalam pengaturan</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
+  <string name="shortcut_added">Ditambahkan ke layar utama</string>
   <!-- Settings: title -->
   <string name="settings_title">Setelan</string>
   <!-- Settings: search engine preference title -->
+  <string name="pref_search_engine">Mesin Pencari</string>
   <!-- Settings: home page preference title -->
+  <string name="pref_start_page">Halaman Utama</string>
   <!-- Settings: select home page dialog title -->
+  <string name="pref_start_page_dialog_title">Pilih halaman utama</string>
   <!-- Settings: select home page dialog message -->
+  <string name="pref_start_page_dialog_message">Tulis URL halaman utama</string>
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Setel Ulang</string>
   <!-- Settings: privacy and security category -->
+  <string name="pref_privacy_security">Privasi &amp; keamanan</string>
   <!-- Settings: lookLock title -->
+  <string name="pref_looklock_title">LookLock</string>
   <!-- Settings: lookLock summary -->
+  <string name="pref_looklock_summary">Cegah aplikasi lain untuk membaca konten peramban</string>
   <!-- Settings: javascript preference title -->
+  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
+  <string name="pref_js_summary">Mengaktifkan JavaScript</string>
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Lokasi</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
+  <string name="pref_location_summary">Izinkan situs web untuk meminta akses ke lokasi Anda</string>
   <!-- Settings: cookie preference title -->
+  <string name="pref_cookie_title">Cookie</string>
   <!-- Settings: cookie preference summary -->
+  <string name="pref_cookie_summary">Mengizinkan situs web untuk menyimpan dan memuat cookie</string>
   <!-- Settings: advanced share preference title -->
+  <string name="pref_screenshot_snap_title">Berbagi lanjutan</string>
   <!-- Settings: advanced share preference summary -->
+  <string name="pref_screenshot_snap_summary">Berbagi pratinjau halaman web</string>
   <!-- Settings: clear cookie -->
+  <string name="pref_cookie_clear">Hapus cookie</string>
   <!-- Settings: clear cookie toast confirmation -->
+  <string name="pref_cookie_clear_done">Membersihkan semua cookie</string>
   <!-- History: title -->
   <string name="history_title">History</string>
   <!-- History: empty status text -->
@@ -77,6 +110,7 @@
   <string name="history_delete_positive">Bersihkan</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
+  <string name="favorite_title">Favorit</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
