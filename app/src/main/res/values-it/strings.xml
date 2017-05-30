@@ -49,6 +49,7 @@
   <!-- Download dialog: title -->
   <string name="download_title">Download file</string>
   <!-- Download dialog: message -->
+  <string name="download_message">Vuoi scaricare %1$s?</string>
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">scarica</string>
   <!-- Permission error dialog: title -->
