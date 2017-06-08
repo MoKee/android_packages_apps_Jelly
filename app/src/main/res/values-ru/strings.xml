@@ -86,9 +86,11 @@
   <!-- Settings: location preference title -->
   <string name="pref_location_title">Размещение</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
+  <string name="pref_location_summary">Разрешить веб-сайтам запрашивать доступ к вашему местоположению</string>
   <!-- Settings: cookie preference title -->
   <!-- Settings: cookie preference summary -->
   <!-- Settings: advanced share preference title -->
+  <string name="pref_screenshot_snap_title">Расширенная отправка</string>
   <!-- Settings: advanced share preference summary -->
   <!-- Settings: clear cookie -->
   <!-- Settings: clear cookie toast confirmation -->
