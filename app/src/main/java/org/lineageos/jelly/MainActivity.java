@@ -58,6 +58,7 @@ import android.view.WindowManager;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.webkit.CookieManager;
+import android.webkit.URLUtil;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -97,7 +98,6 @@ public class MainActivity extends WebViewExtActivity implements View.OnTouchList
     private int mThemeColor;
 
     private String mWaitingDownloadUrl;
-    private String mWaitingDownloadName;
 
     private Bitmap mUrlIcon;
 
@@ -225,7 +225,7 @@ public class MainActivity extends WebViewExtActivity implements View.OnTouchList
                 break;
             case STORAGE_PERM_REQ:
                 if (hasStoragePermission() && mWaitingDownloadUrl != null) {
-                    downloadFileAsk(mWaitingDownloadUrl, mWaitingDownloadName);
+                    downloadFileAsk(mWaitingDownloadUrl, null, null);
                 } else {
                     if (shouldShowRequestPermissionRationale(
                             Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
@@ -381,15 +381,15 @@ public class MainActivity extends WebViewExtActivity implements View.OnTouchList
                 Snackbar.LENGTH_LONG).show();
     }
 
-    public void downloadFileAsk(String url, String fileName) {
+    public void downloadFileAsk(String url, String contentDisposition, String mimeType) {
+        String fileName = URLUtil.guessFileName(url, contentDisposition, mimeType);
+
         if (!hasStoragePermission()) {
             mWaitingDownloadUrl = url;
-            mWaitingDownloadName = fileName;
             requestStoragePermission();
             return;
         }
         mWaitingDownloadUrl = null;
-        mWaitingDownloadName = null;
 
         new AlertDialog.Builder(this)
                 .setTitle(R.string.download_title)
@@ -403,7 +403,12 @@ public class MainActivity extends WebViewExtActivity implements View.OnTouchList
 
     private void fetchFile(String url, String fileName) {
         DownloadManager.Request request = new DownloadManager.Request(Uri.parse(url));
-        request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE);
+
+        // Let this downloaded file be scanned by MediaScanner - so that it can
+        // show up in Gallery app, for example.
+        request.allowScanningByMediaScanner();
+        request.setNotificationVisibility(
+                DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED);
         request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, fileName);
         DownloadManager manager = (DownloadManager) getSystemService(DOWNLOAD_SERVICE);
         manager.enqueue(request);
@@ -422,7 +427,7 @@ public class MainActivity extends WebViewExtActivity implements View.OnTouchList
         shareLayout.setOnClickListener(v -> shareUrl(url));
         favouriteLayout.setOnClickListener(v -> setAsFavorite(url, url));
         if (shouldAllowDownload) {
-            downloadLayout.setOnClickListener(v -> downloadFileAsk(url, ""));
+            downloadLayout.setOnClickListener(v -> downloadFileAsk(url, null, null));
             downloadLayout.setVisibility(View.VISIBLE);
         }
         sheet.setContentView(view);
