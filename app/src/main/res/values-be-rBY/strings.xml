@@ -134,4 +134,14 @@
   <string name="favorite_edit_error">Уведзены недапушчальны адрас</string>
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Няма праграмы якая можа працаваць з гэтай спасылкай</string>
+  <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Патрабуецца аўтарызацыя</string>
+  <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Імя Карыстальніка:</string>
+  <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Пароль:</string>
+  <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s патрабуе імя карыстальніка і пароль.</string>
+  <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Увайсці</string>
 </resources>

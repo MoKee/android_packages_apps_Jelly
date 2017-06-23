@@ -134,4 +134,14 @@
   <string name="favorite_edit_error">Vložte platnou adresu URL</string>
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">K tomuto odkazu není přiřazena žádná aplikace</string>
+  <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Vyžadováno ověření</string>
+  <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Uživatelské jméno:</string>
+  <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Heslo:</string>
+  <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s vyžaduje uživatelské jméno a heslo.</string>
+  <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Přihlásit se</string>
 </resources>

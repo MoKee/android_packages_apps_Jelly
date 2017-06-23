@@ -134,4 +134,14 @@
   <string name="favorite_edit_error">Vložte platnú adresu url</string>
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">K tomuto odkazu nie je priradená žiadna aplikácia</string>
+  <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Vyžaduje sa overenie</string>
+  <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Meno používateľa:</string>
+  <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Heslo:</string>
+  <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s vyžaduje užívateľské meno a heslo.</string>
+  <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Prihlásiť sa</string>
 </resources>

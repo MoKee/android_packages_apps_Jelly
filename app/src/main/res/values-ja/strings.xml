@@ -39,7 +39,9 @@
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">新しいタブで開く</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">デスクトップサイトに切り替える</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">モバイルサイトに切り替える</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">へ送る</string>
   <!-- Dialog action: dismiss -->
@@ -51,32 +53,49 @@
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">ダウンロード</string>
   <!-- Permission error dialog: title -->
+  <string name="permission_error_title">許可エラー</string>
   <!-- Permission error dialog: message for denied storage access-->
+  <string name="permission_error_storage">ブラウザは、ファイルをダウンロードするためにストレージにアクセスする必要があります。 ウェブからファイルを保存できるように許可してください</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">再度請求する</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
+  <string name="permission_error_forever">権限が拒否されました。設定から許可してください</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
+  <string name="shortcut_added">ホーム画面に追加しました</string>
   <!-- Settings: title -->
   <string name="settings_title">設定</string>
   <!-- Settings: search engine preference title -->
+  <string name="pref_search_engine">検索エンジン</string>
   <!-- Settings: home page preference title -->
+  <string name="pref_start_page">ホームページ</string>
   <!-- Settings: select home page dialog title -->
+  <string name="pref_start_page_dialog_title">ホームページを選択</string>
   <!-- Settings: select home page dialog message -->
+  <string name="pref_start_page_dialog_message">ホームページの URL を入力</string>
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">リセット</string>
   <!-- Settings: privacy and security category -->
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
   <!-- Settings: javascript preference title -->
+  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
+  <string name="pref_js_summary">JavaScriptを有効化</string>
   <!-- Settings: location preference title -->
+  <string name="pref_location_title">位置</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
+  <string name="pref_location_summary">Web サイトによる位置情報へのリクエストを許可する</string>
   <!-- Settings: cookie preference title -->
+  <string name="pref_cookie_title">クッキー</string>
   <!-- Settings: cookie preference summary -->
+  <string name="pref_cookie_summary">Web サイトに Cookie の保存と読込を許可する</string>
   <!-- Settings: advanced share preference title -->
+  <string name="pref_screenshot_snap_title">高度な共有</string>
   <!-- Settings: advanced share preference summary -->
   <!-- Settings: clear cookie -->
+  <string name="pref_cookie_clear">Cookie を消去</string>
   <!-- Settings: clear cookie toast confirmation -->
+  <string name="pref_cookie_clear_done">すべての Cookie を消去しました</string>
   <!-- History: title -->
   <string name="history_title">履歴</string>
   <!-- History: empty status text -->
@@ -89,15 +108,28 @@
   <!-- Favorite: title -->
   <string name="favorite_title">お気に入り</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
+  <string name="favorite_added">お気に入りに追加します</string>
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
+  <string name="favorite_edit_dialog_title">お気に入りを編集</string>
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">名前</string>
   <!-- Favorite: edit dialog: url of the favorite-->
+  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">編集</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <string name="favorite_edit_delete">削除</string>
   <!-- Favorite: edit dialog: invalid url error message -->
+  <string name="favorite_edit_error">有効な URL を入力してください</string>
   <!-- No activity found to open the given url error -->
+  <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">認証が必要です</string>
+  <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">ユーザー名:</string>
+  <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">パスワード:</string>
+  <!-- Auth dialog: detail -->
+  <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">ログイン</string>
 </resources>

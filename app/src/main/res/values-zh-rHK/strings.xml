@@ -134,4 +134,14 @@
   <string name="favorite_edit_error">輸入一個有效網址</string>
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">沒有應用程式可以處理此連結</string>
+  <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">需要身份驗證</string>
+  <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">使用者名稱：</string>
+  <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">密碼：</string>
+  <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s 使用者名稱與密碼。</string>
+  <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">登入</string>
 </resources>

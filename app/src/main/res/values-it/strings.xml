@@ -134,4 +134,9 @@
   <string name="favorite_edit_error">Inserisci un URL valido</string>
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Nessun\'app può aprire questo link</string>
+  <!-- Auth dialog: title -->
+  <!-- Auth dialog: username field -->
+  <!-- Auth dialog: password field -->
+  <!-- Auth dialog: detail -->
+  <!-- Auth dialog: login button -->
 </resources>

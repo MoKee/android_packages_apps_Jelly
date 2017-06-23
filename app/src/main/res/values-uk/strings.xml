@@ -124,4 +124,9 @@
   <!-- Favorite: edit dialog: invalid url error message -->
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Немає додатку, що може працювати з цим посиланням</string>
+  <!-- Auth dialog: title -->
+  <!-- Auth dialog: username field -->
+  <!-- Auth dialog: password field -->
+  <!-- Auth dialog: detail -->
+  <!-- Auth dialog: login button -->
 </resources>
