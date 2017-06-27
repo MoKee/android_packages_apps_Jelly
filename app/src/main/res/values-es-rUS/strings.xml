@@ -135,8 +135,13 @@
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Ninguna aplicación puede manejar este enlace</string>
   <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Autenticación requerida</string>
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Nombre de usuario:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Contraseña:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s requiere un nombre de usuario y contraseña.</string>
   <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Iniciar sesión</string>
 </resources>
