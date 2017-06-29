@@ -57,6 +57,7 @@
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Ponovno vprašaj</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
+  <string name="permission_error_forever">Dovoljenje zavrnjeno za vedno. Odobrite ga v nastavitvah</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <string name="shortcut_added">Dodano na domači zaslon</string>
   <!-- Settings: title -->
@@ -91,9 +92,11 @@
   <!-- Settings: advanced share preference title -->
   <string name="pref_screenshot_snap_title">Napredna souporaba</string>
   <!-- Settings: advanced share preference summary -->
+  <string name="pref_screenshot_snap_summary">Deli predogled deljene spletne strani</string>
   <!-- Settings: clear cookie -->
   <string name="pref_cookie_clear">Počisti piškotke</string>
   <!-- Settings: clear cookie toast confirmation -->
+  <string name="pref_cookie_clear_done">Vsi piškotki počiščeni</string>
   <!-- History: title -->
   <string name="history_title">Zgodovina</string>
   <!-- History: empty status text -->
@@ -113,6 +116,7 @@
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <string name="favorite_added">Dodano med zaznamke</string>
   <!-- Favorite: empty status text -->
+  <string name="favorite_empty">Tukaj ni ničesar. Dodajte priljubljeno povezavo in si jo ogledate tukaj</string>
   <!-- Favorite: edit dialog title -->
   <string name="favorite_edit_dialog_title">Uredi priljubljene</string>
   <!-- Favorite: edit dialog: title of the favorite -->
@@ -127,8 +131,13 @@
   <string name="favorite_edit_error">Vstavite veljaven url</string>
   <!-- No activity found to open the given url error -->
   <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Zahtevano preverjanje pristnosti</string>
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Uporabniško ime:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Geslo:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s zahteva uporabniško ime in geslo.</string>
   <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Prijava</string>
 </resources>
