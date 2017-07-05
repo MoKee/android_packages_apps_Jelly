@@ -100,6 +100,10 @@
   <string name="pref_cookie_clear">Limpar cookies</string>
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Todos os cookies foram apagados</string>
+  <!-- Settings: do not track preference title -->
+  <!-- Settings: do not track preference summary -->
+  <!-- Settings: save form data title -->
+  <!-- Settings: suggestions provider title -->
   <!-- History: title -->
   <string name="history_title">Histórico</string>
   <!-- History: empty status text -->
@@ -139,4 +143,5 @@
   <!-- Auth dialog: password field -->
   <!-- Auth dialog: detail -->
   <!-- Auth dialog: login button -->
+  <!-- Launcher shortcut: new incognito tab -->
 </resources>

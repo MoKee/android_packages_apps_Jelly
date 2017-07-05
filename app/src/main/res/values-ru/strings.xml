@@ -100,6 +100,10 @@
   <string name="pref_cookie_clear">Очистить cookies</string>
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Очистить все файлы cookie</string>
+  <!-- Settings: do not track preference title -->
+  <!-- Settings: do not track preference summary -->
+  <!-- Settings: save form data title -->
+  <!-- Settings: suggestions provider title -->
   <!-- History: title -->
   <string name="history_title">История версий</string>
   <!-- History: empty status text -->
@@ -144,4 +148,5 @@
   <string name="auth_dialog_detail">%1$s требует имя пользователя и пароль.</string>
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">Войти</string>
+  <!-- Launcher shortcut: new incognito tab -->
 </resources>

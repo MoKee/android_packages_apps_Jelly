@@ -96,6 +96,10 @@
   <string name="pref_cookie_clear">Cookie を消去</string>
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">すべての Cookie を消去しました</string>
+  <!-- Settings: do not track preference title -->
+  <!-- Settings: do not track preference summary -->
+  <!-- Settings: save form data title -->
+  <!-- Settings: suggestions provider title -->
   <!-- History: title -->
   <string name="history_title">履歴</string>
   <!-- History: empty status text -->
@@ -132,4 +136,5 @@
   <!-- Auth dialog: detail -->
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">ログイン</string>
+  <!-- Launcher shortcut: new incognito tab -->
 </resources>
