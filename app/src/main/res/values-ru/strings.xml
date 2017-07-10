@@ -101,6 +101,7 @@
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Очистить все файлы cookie</string>
   <!-- Settings: do not track preference title -->
+  <string name="pref_do_not_track_title">Не Отслеживать</string>
   <!-- Settings: do not track preference summary -->
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->

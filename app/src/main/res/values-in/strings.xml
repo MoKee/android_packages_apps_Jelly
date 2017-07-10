@@ -101,9 +101,13 @@
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Membersihkan semua cookie</string>
   <!-- Settings: do not track preference title -->
+  <string name="pref_do_not_track_title">Jangan Melacak</string>
   <!-- Settings: do not track preference summary -->
+  <string name="pref_do_not_track_summary">Kirim permintaan jangan melacak ke situs web yang dikunjungi</string>
   <!-- Settings: save form data title -->
+  <string name="pref_save_form_data_title">Simpan data formulir</string>
   <!-- Settings: suggestions provider title -->
+  <string name="pref_suggestions_provider">Saran penyedia</string>
   <!-- History: title -->
   <string name="history_title">History</string>
   <!-- History: empty status text -->
@@ -139,9 +143,15 @@
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Tidak ada aplikasi yang dapat membuka tautan ini</string>
   <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Otentikasi diperlukan</string>
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Nama Pengguna:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Kata sandi:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s membutuhkan nama pengguna dan kata sandi.</string>
   <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Masuk</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <string name="shortcut_new_incognito_tab">Tab penyamaran baru</string>
 </resources>
