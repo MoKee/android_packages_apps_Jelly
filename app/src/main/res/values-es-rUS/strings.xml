@@ -154,4 +154,6 @@
   <string name="auth_dialog_login">Iniciar sesión</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Nueva pestaña de incógnito</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Ninguno</string>
 </resources>

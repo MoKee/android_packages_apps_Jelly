@@ -154,4 +154,6 @@
   <string name="auth_dialog_login">登录</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">新隐身标签页</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">无</string>
 </resources>

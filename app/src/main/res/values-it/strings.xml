@@ -149,4 +149,6 @@
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">Accedi</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Nessuno</string>
 </resources>

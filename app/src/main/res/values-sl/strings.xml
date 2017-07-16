@@ -150,4 +150,6 @@
   <string name="auth_dialog_login">Prijava</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Nov zavihek brez beleženja zgod.</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Brez</string>
 </resources>

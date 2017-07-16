@@ -154,4 +154,6 @@
   <string name="auth_dialog_login">Anmelden</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Neuer Inkognito-Tab</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Kein</string>
 </resources>

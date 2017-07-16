@@ -154,4 +154,6 @@
   <string name="auth_dialog_login">Prihlásiť sa</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Nová karta v režime inkognito</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Žiadny</string>
 </resources>

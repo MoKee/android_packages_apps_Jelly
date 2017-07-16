@@ -103,8 +103,11 @@
   <!-- Settings: do not track preference title -->
   <string name="pref_do_not_track_title">Не Отслеживать</string>
   <!-- Settings: do not track preference summary -->
+  <string name="pref_do_not_track_summary">Отправлять запросы \"Не отслеживать\" на веб-сайты, которые вы посещаете</string>
   <!-- Settings: save form data title -->
+  <string name="pref_save_form_data_title">Сохранить на диске</string>
   <!-- Settings: suggestions provider title -->
+  <string name="pref_suggestions_provider">Поставщик поисковых предложений</string>
   <!-- History: title -->
   <string name="history_title">История версий</string>
   <!-- History: empty status text -->
@@ -150,4 +153,7 @@
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">Войти</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <string name="shortcut_new_incognito_tab">Новое окно в режиме инкогнито</string>
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Оригинал</string>
 </resources>

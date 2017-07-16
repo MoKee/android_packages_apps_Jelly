@@ -137,4 +137,6 @@
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">ログイン</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">なし</string>
 </resources>

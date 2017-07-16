@@ -93,4 +93,6 @@
   <!-- Auth dialog: detail -->
   <!-- Auth dialog: login button -->
   <!-- Launcher shortcut: new incognito tab -->
+  <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">هیچ‌کدام</string>
 </resources>
