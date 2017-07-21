@@ -32,6 +32,8 @@
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Εύρεση στη σελίδα</string>
   <!-- Share webPage: "send to" dialog title -->
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Παράβλεψη</string>
@@ -98,4 +100,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Κανένα</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Αναζήτηση</string>
 </resources>

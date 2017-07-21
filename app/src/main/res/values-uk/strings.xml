@@ -40,6 +40,8 @@
   <string name="menu_in_new_tab">Відкрити у новій вкладці</string>
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Пошук на сторінці</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Надіслати до</string>
   <!-- Dialog action: dismiss -->
@@ -136,4 +138,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Нічого</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Пошук</string>
 </resources>

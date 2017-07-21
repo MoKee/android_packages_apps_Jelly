@@ -32,6 +32,8 @@
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Намери в страницата</string>
   <!-- Share webPage: "send to" dialog title -->
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Отхвърли</string>
@@ -101,4 +103,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Без</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Търсене</string>
 </resources>

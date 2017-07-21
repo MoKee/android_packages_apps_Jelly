@@ -42,6 +42,8 @@
   <string name="menu_desktop_mode">デスクトップサイトに切り替える</string>
   <!-- Menu action: enable phone mode -->
   <string name="menu_mobile_mode">モバイルサイトに切り替える</string>
+  <!-- Menu action: search in page -->
+  <string name="menu_search">ページで検索</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">へ送る</string>
   <!-- Dialog action: dismiss -->
@@ -139,4 +141,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">なし</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">検索</string>
 </resources>

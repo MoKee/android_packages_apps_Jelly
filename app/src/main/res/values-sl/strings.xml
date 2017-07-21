@@ -40,6 +40,8 @@
   <string name="menu_in_new_tab">Odpri v novem zavihku</string>
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Najdi na strani</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Pošlji v</string>
   <!-- Dialog action: dismiss -->
@@ -152,4 +154,6 @@
   <string name="shortcut_new_incognito_tab">Nov zavihek brez beleženja zgod.</string>
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Brez</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Iskanje</string>
 </resources>

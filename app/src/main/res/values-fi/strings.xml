@@ -40,6 +40,8 @@
   <string name="menu_in_new_tab">Avaa uudessa välilehdessä</string>
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Etsi sivulta</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Lähetä</string>
   <!-- Dialog action: dismiss -->
@@ -136,4 +138,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Ei mitään</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Etsi</string>
 </resources>

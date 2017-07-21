@@ -42,6 +42,8 @@
   <string name="menu_desktop_mode">Перайсці на поўную версію</string>
   <!-- Menu action: enable phone mode -->
   <string name="menu_mobile_mode">Перайсці на мабільную версію</string>
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Пошук па старонцы</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Даслаць</string>
   <!-- Dialog action: dismiss -->
@@ -101,9 +103,13 @@
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Выдаліць усе файлы cookie</string>
   <!-- Settings: do not track preference title -->
+  <string name="pref_do_not_track_title">Не адсочваць</string>
   <!-- Settings: do not track preference summary -->
+  <string name="pref_do_not_track_summary">Адправіць запыт Не адсочваць на вэб-сайты, якія вы наведваеце</string>
   <!-- Settings: save form data title -->
+  <string name="pref_save_form_data_title">Захаваць на дыску</string>
   <!-- Settings: suggestions provider title -->
+  <string name="pref_suggestions_provider">Пастаўшчык пошукавых прапаноў</string>
   <!-- History: title -->
   <string name="history_title">Гісторыя</string>
   <!-- History: empty status text -->
@@ -149,6 +155,9 @@
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">Увайсці</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <string name="shortcut_new_incognito_tab">Новая прыватная ўкладка</string>
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Нічога</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Пошук</string>
 </resources>

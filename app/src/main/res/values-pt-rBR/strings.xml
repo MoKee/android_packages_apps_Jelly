@@ -42,6 +42,8 @@
   <string name="menu_desktop_mode">Mudar para versão desktop</string>
   <!-- Menu action: enable phone mode -->
   <string name="menu_mobile_mode">Mudar para versão móvel</string>
+  <!-- Menu action: search in page -->
+  <string name="menu_search">Procurar na página</string>
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Enviar para</string>
   <!-- Dialog action: dismiss -->
@@ -156,4 +158,6 @@
   <string name="shortcut_new_incognito_tab">Nova aba anônima</string>
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Nenhum</string>
+  <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Pesquisar</string>
 </resources>
