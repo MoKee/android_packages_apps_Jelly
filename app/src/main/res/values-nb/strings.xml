@@ -57,6 +57,7 @@
   <!-- Settings: javascript preference title -->
   <!-- Settings: javascript preference summary -->
   <!-- Settings: location preference title -->
+  <string name="pref_location_title">Posisjon</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <!-- Settings: cookie preference title -->
   <!-- Settings: cookie preference summary -->
@@ -81,6 +82,7 @@
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
+  <string name="favorite_edit_title">Tittel</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
