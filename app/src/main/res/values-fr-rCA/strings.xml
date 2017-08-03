@@ -142,10 +142,15 @@
   <string name="error_no_activity_found">Aucune application ne peut gérer ce lien</string>
   <!-- Auth dialog: title -->
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Nom d’utilisateur:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Mot de passe:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s requiert un identifiant et un mot de passe.</string>
   <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Connexion</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <string name="shortcut_new_incognito_tab">Nouvel onglet nav. privée</string>
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Aucun</string>
   <!-- Search in page: search hint -->
