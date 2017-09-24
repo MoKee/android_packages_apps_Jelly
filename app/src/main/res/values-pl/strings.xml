@@ -103,6 +103,7 @@
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Wyczyszczono wszystkie pliki cookies</string>
   <!-- Settings: do not track preference title -->
+  <string name="pref_do_not_track_title">Nie śledź</string>
   <!-- Settings: do not track preference summary -->
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->
@@ -142,7 +143,9 @@
   <string name="error_no_activity_found">Ten link nie jest obsługiwany przez żadną aplikację</string>
   <!-- Auth dialog: title -->
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">Nazwa użytkownika:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Hasło:</string>
   <!-- Auth dialog: detail -->
   <!-- Auth dialog: login button -->
   <!-- Launcher shortcut: new incognito tab -->
