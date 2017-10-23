@@ -26,6 +26,7 @@
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
   <!-- Menu action: download selected file / image -->
+  <string name="menu_download">ഡൗൺലോഡ്</string>
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
@@ -35,6 +36,7 @@
   <!-- Download dialog: title -->
   <!-- Download dialog: message -->
   <!-- Download dialog: button that starts the download -->
+  <string name="download_positive">ഡൗൺലോഡ്</string>
   <!-- Permission error dialog: title -->
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
@@ -81,6 +83,7 @@
   <string name="favorite_edit_title">തലക്കെട്ട്</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
+  <string name="favorite_edit_positive">തിരുത്തുക</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <!-- Favorite: edit dialog: invalid url error message -->
   <!-- No activity found to open the given url error -->
