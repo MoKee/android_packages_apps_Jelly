@@ -22,9 +22,11 @@
   <!-- Menu action: share current page -->
   <!-- Menu action: show favorites list -->
   <!-- Menu action: show history list -->
+  <string name="menu_history">ಇತಿಹಾಸ</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
   <!-- Menu action: download selected file / image -->
+  <string name="menu_download">ಡೌನ್‍ಲೋಡ್</string>
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
@@ -34,6 +36,7 @@
   <!-- Download dialog: title -->
   <!-- Download dialog: message -->
   <!-- Download dialog: button that starts the download -->
+  <string name="download_positive">ಡೌನ್‍ಲೋಡ್</string>
   <!-- Permission error dialog: title -->
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
@@ -65,6 +68,7 @@
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->
   <!-- History: title -->
+  <string name="history_title">ಇತಿಹಾಸ</string>
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <!-- History: delete history dialog title -->
