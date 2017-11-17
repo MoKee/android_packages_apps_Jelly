@@ -103,8 +103,10 @@
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Effacer tous les cookies</string>
   <!-- Settings: do not track preference title -->
+  <string name="pref_do_not_track_title">Ne pas suivre</string>
   <!-- Settings: do not track preference summary -->
   <!-- Settings: save form data title -->
+  <string name="pref_save_form_data_title">Enregistrer les données</string>
   <!-- Settings: suggestions provider title -->
   <!-- History: title -->
   <string name="history_title">Historique</string>
@@ -141,6 +143,7 @@
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Aucune application ne peut gérer ce lien</string>
   <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Authentification requise</string>
   <!-- Auth dialog: username field -->
   <string name="auth_dialog_username">Nom d’utilisateur:</string>
   <!-- Auth dialog: password field -->
