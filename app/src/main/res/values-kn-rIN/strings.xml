@@ -25,6 +25,7 @@
   <string name="menu_history">ಇತಿಹಾಸ</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
+  <string name="menu_settings">ಸಂಯೋಜನೆಗಳು</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">ಡೌನ್‍ಲೋಡ್</string>
   <!-- Menu action: open selected link in a new tab -->
@@ -43,6 +44,7 @@
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <!-- Settings: title -->
+  <string name="settings_title">ಸಂಯೋಜನೆಗಳು</string>
   <!-- Settings: search engine preference title -->
   <!-- Settings: home page preference title -->
   <!-- Settings: select home page dialog title -->
@@ -83,6 +85,7 @@
   <string name="favorite_edit_title">ಶೀರ್ಷಿಕೆ</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
+  <string name="favorite_edit_positive">ಪರಿಷ್ಕರಿಸಿ</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <!-- Favorite: edit dialog: invalid url error message -->
   <!-- No activity found to open the given url error -->
