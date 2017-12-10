@@ -79,7 +79,7 @@
   <!-- Settings: privacy and security category -->
   <string name="pref_privacy_security">Privacidade &amp; e segurança</string>
   <!-- Settings: lookLock title -->
-  <string name="pref_looklock_title">Look Lock</string>
+  <string name="pref_looklock_title">Bloquear Acesso</string>
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Impedir que outros aplicativos leiam o conteúdo do navegador</string>
   <!-- Settings: javascript preference title -->
