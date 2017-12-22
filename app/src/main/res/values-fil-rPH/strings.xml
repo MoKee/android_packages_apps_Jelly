@@ -27,6 +27,7 @@
   <!-- Menu action: show settings -->
   <string name="menu_settings">Mga setting</string>
   <!-- Menu action: download selected file / image -->
+  <string name="menu_download">I-download</string>
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
@@ -36,6 +37,7 @@
   <!-- Download dialog: title -->
   <!-- Download dialog: message -->
   <!-- Download dialog: button that starts the download -->
+  <string name="download_positive">I-download</string>
   <!-- Permission error dialog: title -->
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
