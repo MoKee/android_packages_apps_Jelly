@@ -28,6 +28,7 @@
   <!-- Menu action: show settings -->
   <string name="menu_settings">Tetapan</string>
   <!-- Menu action: download selected file / image -->
+  <string name="menu_download">Muat turun</string>
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
   <!-- Menu action: enable phone mode -->
@@ -37,6 +38,7 @@
   <!-- Download dialog: title -->
   <!-- Download dialog: message -->
   <!-- Download dialog: button that starts the download -->
+  <string name="download_positive">Muat turun</string>
   <!-- Permission error dialog: title -->
   <!-- Permission error dialog: message for denied storage access-->
   <!-- Permission error dialog: button that triggers permission request again -->
