@@ -25,7 +25,7 @@
   <!-- Menu action: add current page to favorites -->
   <string name="menu_fav_add">Добавить в избранное</string>
   <!-- Menu action: share current page -->
-  <string name="menu_share">Поделится</string>
+  <string name="menu_share">Поделиться</string>
   <!-- Menu action: show favorites list -->
   <string name="menu_favorites">Избранное</string>
   <!-- Menu action: show history list -->
@@ -35,7 +35,7 @@
   <!-- Menu action: show settings -->
   <string name="menu_settings">Настройки</string>
   <!-- Menu action: download selected file / image -->
-  <string name="menu_download">Загрузить</string>
+  <string name="menu_download">Скачать</string>
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Открыть в новой вкладке</string>
   <!-- Menu action: enable desktop mode -->
@@ -47,23 +47,23 @@
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Отправить</string>
   <!-- Dialog action: dismiss -->
-  <string name="dismiss">Закрыть</string>
+  <string name="dismiss">Отклонить</string>
   <!-- Download dialog: title -->
   <string name="download_title">Загрузить файл</string>
   <!-- Download dialog: message -->
-  <string name="download_message">Вы хотите загрузить %1$s на sdcard?</string>
+  <string name="download_message">Вы хотите загрузить %1$s?</string>
   <!-- Download dialog: button that starts the download -->
-  <string name="download_positive">Загрузить</string>
+  <string name="download_positive">Скачать</string>
   <!-- Permission error dialog: title -->
   <string name="permission_error_title">Ошибка доступа</string>
   <!-- Permission error dialog: message for denied storage access-->
-  <string name="permission_error_storage">Для загрузки файлов, браузеру необходим доступ к устройству хранения данных. Предоставьте его для сохранения файлов из интернета</string>
+  <string name="permission_error_storage">Для загрузки файлов, браузеру необходим доступ к хранилищу. Предоставьте его для сохранения файлов из интернета.</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Спросить снова</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <string name="permission_error_forever">Доступ запрещен. Пожайлуста предоставьте доступ в настройках</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
-  <string name="shortcut_added">Добавить на главный экран</string>
+  <string name="shortcut_added">Добавлено на главный экран</string>
   <!-- Settings: title -->
   <string name="settings_title">Настройки</string>
   <!-- Settings: search engine preference title -->
@@ -123,7 +123,7 @@
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Очистить</string>
   <!-- History: delete history "working" dialog-->
-  <string name="history_deleting_message">Очистить историю\u2026</string>
+  <string name="history_deleting_message">Очистка истории...</string>
   <!-- Favorite: title -->
   <string name="favorite_title">Избранное</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
@@ -131,11 +131,11 @@
   <!-- Favorite: empty status text -->
   <string name="favorite_empty">Здесь ничего нет. Добавьте любимые ссылки в избранное</string>
   <!-- Favorite: edit dialog title -->
-  <string name="favorite_edit_dialog_title">Редактировать закладки</string>
+  <string name="favorite_edit_dialog_title">Редактировать закладку</string>
   <!-- Favorite: edit dialog: title of the favorite -->
-  <string name="favorite_edit_title">Заголовок</string>
+  <string name="favorite_edit_title">Имя</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
+  <string name="favorite_edit_url">URL-адрес</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Изменить</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
@@ -145,9 +145,9 @@
   <!-- No activity found to open the given url error -->
   <string name="error_no_activity_found">Нет приложения для открытия этой ссылки</string>
   <!-- Auth dialog: title -->
-  <string name="auth_dialog_title">Необходима Аутентификация</string>
+  <string name="auth_dialog_title">Требуется авторизация</string>
   <!-- Auth dialog: username field -->
-  <string name="auth_dialog_username">Имя Пользователя:</string>
+  <string name="auth_dialog_username">Имя пользователя:</string>
   <!-- Auth dialog: password field -->
   <string name="auth_dialog_password">Пароль:</string>
   <!-- Auth dialog: detail -->
