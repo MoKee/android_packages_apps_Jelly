@@ -23,11 +23,11 @@
   <!-- Menu action: reload current page -->
   <string name="menu_reload">Обновить</string>
   <!-- Menu action: add current page to favorites -->
-  <string name="menu_fav_add">Добавить в избранное</string>
+  <string name="menu_fav_add">Добавить в закладки</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">Поделиться</string>
   <!-- Menu action: show favorites list -->
-  <string name="menu_favorites">Избранное</string>
+  <string name="menu_favorites">Закладки</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">История</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
@@ -61,7 +61,7 @@
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Спросить снова</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
-  <string name="permission_error_forever">Доступ запрещен. Пожайлуста предоставьте доступ в настройках</string>
+  <string name="permission_error_forever">Доступ запрещен. Пожайлуста, предоставьте  разрешение в настройках.</string>
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <string name="shortcut_added">Добавлено на главный экран</string>
   <!-- Settings: title -->
@@ -87,7 +87,7 @@
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">Включить JavaScript</string>
   <!-- Settings: location preference title -->
-  <string name="pref_location_title">Размещение</string>
+  <string name="pref_location_title">Местоположение</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <string name="pref_location_summary">Разрешить веб-сайтам запрашивать доступ к вашему местоположению</string>
   <!-- Settings: cookie preference title -->
@@ -107,7 +107,7 @@
   <!-- Settings: do not track preference summary -->
   <string name="pref_do_not_track_summary">Отправлять запросы \"Не отслеживать\" на веб-сайты, которые вы посещаете</string>
   <!-- Settings: save form data title -->
-  <string name="pref_save_form_data_title">Сохранить на диске</string>
+  <string name="pref_save_form_data_title">Автозаполнение форм</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Поставщик поисковых предложений</string>
   <!-- History: title -->
@@ -125,11 +125,11 @@
   <!-- History: delete history "working" dialog-->
   <string name="history_deleting_message">Очистка истории...</string>
   <!-- Favorite: title -->
-  <string name="favorite_title">Избранное</string>
+  <string name="favorite_title">Закладки</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
-  <string name="favorite_added">Добавлено в избранное</string>
+  <string name="favorite_added">Добавлено в закладки</string>
   <!-- Favorite: empty status text -->
-  <string name="favorite_empty">Здесь ничего нет. Добавьте любимые ссылки в избранное</string>
+  <string name="favorite_empty">Здесь ничего нет. Добавьте любимые ссылки в закладки</string>
   <!-- Favorite: edit dialog title -->
   <string name="favorite_edit_dialog_title">Редактировать закладку</string>
   <!-- Favorite: edit dialog: title of the favorite -->

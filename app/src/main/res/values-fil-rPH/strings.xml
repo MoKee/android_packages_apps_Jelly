@@ -98,4 +98,5 @@
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
   <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Hanapin</string>
 </resources>
