@@ -115,7 +115,7 @@
   <!-- History: empty status text -->
   <string name="history_empty">Здесь ничего нет. История появится после просмотра страниц в интернете</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
-  <string name="history_date_format">НННН ММММ дд гггг, ЧЧ:мм</string>
+  <string name="history_date_format">EEEE, dd MMMM yyyy, HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Очистить историю</string>
   <!-- History: delete history dialog warning message -->
