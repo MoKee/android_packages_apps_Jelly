@@ -119,30 +119,45 @@
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Linisin ang kasaysayan</string>
   <!-- History: delete history dialog warning message -->
+  <string name="history_delete_message">Kayo mismo ang magtanggal ng lahat ng kasaysayan, ang aksyon na ito ay hindi na mababawi. Gusto mo bang magpatuloy?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Burahin</string>
   <!-- History: delete history "working" dialog-->
+  <string name="history_deleting_message">Paglinis ng kasaysayan\u2026</string>
   <!-- Favorite: title -->
   <string name="favorite_title">Mga paborito</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
+  <string name="favorite_added">Idagdag sa mga paborito</string>
   <!-- Favorite: empty status text -->
+  <string name="favorite_empty">Wala dito, magdagdag ng mga paboritong link para makita ang mga ito dito</string>
   <!-- Favorite: edit dialog title -->
+  <string name="favorite_edit_dialog_title">I-edit ang paborito</string>
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Pamagat</string>
   <!-- Favorite: edit dialog: url of the favorite-->
+  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">I-edit</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <string name="favorite_edit_delete">Burahin</string>
   <!-- Favorite: edit dialog: invalid url error message -->
+  <string name="favorite_edit_error">Magpasok ng isang balidong URL</string>
   <!-- No activity found to open the given url error -->
+  <string name="error_no_activity_found">Walang app ay maaring hawakan ng link na ito</string>
   <!-- Auth dialog: title -->
+  <string name="auth_dialog_title">Nangangailangan ng pagpapatunay</string>
   <!-- Auth dialog: username field -->
+  <string name="auth_dialog_username">User Name:</string>
   <!-- Auth dialog: password field -->
+  <string name="auth_dialog_password">Password:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s ay nangangailangan ng isang username at password.</string>
   <!-- Auth dialog: login button -->
+  <string name="auth_dialog_login">Log in</string>
   <!-- Launcher shortcut: new incognito tab -->
+  <string name="shortcut_new_incognito_tab">Bagong tab ng incognito</string>
   <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Wala</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Hanapin</string>
 </resources>
