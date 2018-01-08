@@ -15,13 +15,18 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">브라우저</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">새 탭</string>
   <!-- Menu action: create new incognito tab -->
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">새로고침</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">즐겨찾기에 추가</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">공유</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">즐겨찾기</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">지난기록</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
