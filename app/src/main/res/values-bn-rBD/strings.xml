@@ -22,7 +22,7 @@
   <!-- Menu action: share current page -->
   <!-- Menu action: show favorites list -->
   <!-- Menu action: show history list -->
-  <string name="menu_history">History</string>
+  <string name="menu_history">ইতিহাস</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
   <string name="menu_settings">Settings</string>
@@ -67,12 +67,13 @@
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->
   <!-- History: title -->
-  <string name="history_title">History</string>
+  <string name="history_title">ইতিহাস</string>
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <!-- History: delete history dialog title -->
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
+  <string name="history_delete_positive">সাফ করুন</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
