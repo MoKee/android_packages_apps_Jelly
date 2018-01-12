@@ -58,6 +58,7 @@
   <!-- Settings: javascript preference title -->
   <!-- Settings: javascript preference summary -->
   <!-- Settings: location preference title -->
+  <string name="pref_location_title">Lokasyon</string>
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <!-- Settings: cookie preference title -->
   <!-- Settings: cookie preference summary -->
@@ -83,6 +84,7 @@
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
+  <string name="favorite_edit_title">Pamagat</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">I-edit</string>
@@ -99,4 +101,5 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Wala</string>
   <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Hanapin</string>
 </resources>
