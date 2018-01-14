@@ -71,6 +71,7 @@
   <!-- History: delete history dialog title -->
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
+  <string name="history_delete_positive">Notīrīt</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
