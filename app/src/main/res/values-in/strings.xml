@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Browser</string>
+  <string name="app_name">Peramban</string>
   <!-- Menu action: create new tab -->
   <string name="menu_new_tab">Tab baru</string>
   <!-- Menu action: create new incognito tab -->
@@ -99,6 +99,7 @@
   <!-- Settings: advanced share preference summary -->
   <string name="pref_screenshot_snap_summary">Berbagi pratinjau halaman web</string>
   <!-- Settings: clear cookie -->
+  <string name="pref_cookie_clear">Hapus cookie</string>
   <!-- Settings: clear cookie toast confirmation -->
   <string name="pref_cookie_clear_done">Membersihkan semua kuki</string>
   <!-- Settings: do not track preference title -->

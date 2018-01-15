@@ -83,7 +83,6 @@
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">מונע מיישומים אחרים לקרוא את תוכן הדפדפן</string>
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">הפעל JavaScript</string>
   <!-- Settings: location preference title -->
@@ -115,7 +114,6 @@
   <!-- History: empty status text -->
   <string name="history_empty">אין כאן שום דבר, גלוש באינטרנט כדי לראות את ההיסטוריה שלך כאן</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
-  <string name="history_date_format">EEEE MMMM dd yyyy, HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">נקה היסטוריה</string>
   <!-- History: delete history dialog warning message -->

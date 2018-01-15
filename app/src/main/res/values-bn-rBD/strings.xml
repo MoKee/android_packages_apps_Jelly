@@ -22,8 +22,10 @@
   <!-- Menu action: share current page -->
   <!-- Menu action: show favorites list -->
   <!-- Menu action: show history list -->
+  <string name="menu_history">ইতিহাস</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
+  <string name="menu_settings">Settings</string>
   <!-- Menu action: download selected file / image -->
   <!-- Menu action: open selected link in a new tab -->
   <!-- Menu action: enable desktop mode -->
@@ -40,11 +42,13 @@
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
   <!-- Shortcut: the current webPage has been added to the launcher -->
   <!-- Settings: title -->
+  <string name="settings_title">Settings</string>
   <!-- Settings: search engine preference title -->
   <!-- Settings: home page preference title -->
   <!-- Settings: select home page dialog title -->
   <!-- Settings: select home page dialog message -->
   <!-- Settings: reset home page dialog action -->
+  <string name="pref_start_page_dialog_reset">পুনরায় সেট করুন</string>
   <!-- Settings: privacy and security category -->
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
@@ -63,11 +67,13 @@
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->
   <!-- History: title -->
+  <string name="history_title">ইতিহাস</string>
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <!-- History: delete history dialog title -->
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
+  <string name="history_delete_positive">সাফ করুন</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
@@ -76,6 +82,7 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
+  <string name="favorite_edit_positive">Edit</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <!-- Favorite: edit dialog: invalid url error message -->
   <!-- No activity found to open the given url error -->
@@ -86,5 +93,6 @@
   <!-- Auth dialog: login button -->
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">কোনো কিছুই নয়</string>
   <!-- Search in page: search hint -->
 </resources>

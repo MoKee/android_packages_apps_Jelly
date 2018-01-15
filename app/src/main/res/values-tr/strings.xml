@@ -79,7 +79,7 @@
   <!-- Settings: privacy and security category -->
   <string name="pref_privacy_security">Gizlilik &amp; güvenlik</string>
   <!-- Settings: lookLock title -->
-  <string name="pref_looklock_title">LookLock</string>
+  <string name="pref_looklock_title">Kilit Görünümü</string>
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Diğer uygulamaların Tarayıcı içeriğini okumasını engelleyin</string>
   <!-- Settings: javascript preference title -->

@@ -22,6 +22,7 @@
   <!-- Menu action: share current page -->
   <!-- Menu action: show favorites list -->
   <!-- Menu action: show history list -->
+  <string name="menu_history">Tarixi</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
   <!-- Menu action: show settings -->
   <!-- Menu action: download selected file / image -->
@@ -45,6 +46,7 @@
   <!-- Settings: select home page dialog title -->
   <!-- Settings: select home page dialog message -->
   <!-- Settings: reset home page dialog action -->
+  <string name="pref_start_page_dialog_reset">Tiklash</string>
   <!-- Settings: privacy and security category -->
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
@@ -63,11 +65,13 @@
   <!-- Settings: save form data title -->
   <!-- Settings: suggestions provider title -->
   <!-- History: title -->
+  <string name="history_title">Tarixi</string>
   <!-- History: empty status text -->
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <!-- History: delete history dialog title -->
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
+  <string name="history_delete_positive">Tozalash</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
@@ -86,5 +90,6 @@
   <!-- Auth dialog: login button -->
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Asl</string>
   <!-- Search in page: search hint -->
 </resources>

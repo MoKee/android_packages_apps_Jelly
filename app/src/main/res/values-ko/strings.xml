@@ -135,7 +135,7 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">제목</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
+  <string name="favorite_edit_url">URL 주소</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">편집</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->

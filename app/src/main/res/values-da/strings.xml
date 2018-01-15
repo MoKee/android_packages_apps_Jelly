@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Browser</string>
   <!-- Menu action: create new tab -->
   <string name="menu_new_tab">Ny fane</string>
   <!-- Menu action: create new incognito tab -->
@@ -82,7 +81,6 @@
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Forhindr andre apps i at læse browserens indhold</string>
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">Aktivér JavaScript</string>
   <!-- Settings: location preference title -->
@@ -90,7 +88,6 @@
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <string name="pref_location_summary">Tillad websteder at anmode om adgang til din placering</string>
   <!-- Settings: cookie preference title -->
-  <string name="pref_cookie_title">Cookies</string>
   <!-- Settings: cookie preference summary -->
   <string name="pref_cookie_summary">Tillad websteder til at læse og gemme cookies</string>
   <!-- Settings: advanced share preference title -->
@@ -114,7 +111,6 @@
   <!-- History: empty status text -->
   <string name="history_empty">Der er intet her. Naviger på internettet for at se din historik her</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
-  <string name="history_date_format">EEEE MMMM dd yyyy, HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Ryd historik</string>
   <!-- History: delete history dialog warning message -->
@@ -134,7 +130,6 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Titel</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Redigér</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
@@ -156,5 +151,6 @@
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Ny inkognitofane</string>
   <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">Ingen</string>
   <!-- Search in page: search hint -->
 </resources>

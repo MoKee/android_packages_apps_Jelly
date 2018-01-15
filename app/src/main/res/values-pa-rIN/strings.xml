@@ -45,6 +45,7 @@
   <!-- Settings: select home page dialog title -->
   <!-- Settings: select home page dialog message -->
   <!-- Settings: reset home page dialog action -->
+  <string name="pref_start_page_dialog_reset">ਰੀਸੈਟ ਕਰੋ</string>
   <!-- Settings: privacy and security category -->
   <!-- Settings: lookLock title -->
   <!-- Settings: lookLock summary -->
@@ -68,6 +69,7 @@
   <!-- History: delete history dialog title -->
   <!-- History: delete history dialog warning message -->
   <!-- History: delete history dialog button that erases all the history -->
+  <string name="history_delete_positive">ਹਟਾਓ</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
@@ -86,5 +88,6 @@
   <!-- Auth dialog: login button -->
   <!-- Launcher shortcut: new incognito tab -->
   <!-- Suggestions provider: no suggestions provider -->
+  <string name="suggestions_provider_none">ਕੋਈ ਨਹੀਂ</string>
   <!-- Search in page: search hint -->
 </resources>

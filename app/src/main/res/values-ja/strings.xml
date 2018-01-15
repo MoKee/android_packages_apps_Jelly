@@ -79,7 +79,6 @@
   <!-- Settings: privacy and security category -->
   <string name="pref_privacy_security">プライバシーとセキュリティ</string>
   <!-- Settings: lookLock title -->
-  <string name="pref_looklock_title">LookLock</string>
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">他のアプリがブラウザのコンテンツを読み取るのを防ぎます</string>
   <!-- Settings: javascript preference title -->

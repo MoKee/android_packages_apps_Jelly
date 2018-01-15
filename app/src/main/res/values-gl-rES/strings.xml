@@ -83,7 +83,6 @@
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Impide que outras aplicacións lean o contido do navegador</string>
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">Activar JavaScript</string>
   <!-- Settings: location preference title -->
@@ -91,7 +90,6 @@
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <string name="pref_location_summary">Permitir aos sitios web acceder á ubicación</string>
   <!-- Settings: cookie preference title -->
-  <string name="pref_cookie_title">Cookies</string>
   <!-- Settings: cookie preference summary -->
   <string name="pref_cookie_summary">Permitir aos sitios web gardar e cargar cookies</string>
   <!-- Settings: advanced share preference title -->
@@ -135,7 +133,6 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Título</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Editar</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->

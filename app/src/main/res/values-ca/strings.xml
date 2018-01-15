@@ -83,7 +83,6 @@
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Evita que altres aplicacions llegeixin el contingut del navegador</string>
   <!-- Settings: javascript preference title -->
-  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">Activa JavaScript</string>
   <!-- Settings: location preference title -->
@@ -135,7 +134,6 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Títol</string>
   <!-- Favorite: edit dialog: url of the favorite-->
-  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Edita</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
