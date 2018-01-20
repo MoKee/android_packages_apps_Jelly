@@ -91,7 +91,7 @@
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <string name="pref_location_summary">Autoriser les sites web à demander l\'accès à votre position</string>
   <!-- Settings: cookie preference title -->
-  <string name="pref_cookie_title">Cookies</string>
+  <string name="pref_cookie_title">Témoins</string>
   <!-- Settings: cookie preference summary -->
   <string name="pref_cookie_summary">Autoriser les sites web à enregistrer et charger les cookies</string>
   <!-- Settings: advanced share preference title -->
@@ -115,7 +115,7 @@
   <!-- History: empty status text -->
   <string name="history_empty">Il n’y a rien ici, naviguer sur internet pour voir votre historique ici</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
-  <string name="history_date_format">EEEE MMMM dd yyyy, HH:mm</string>
+  <string name="history_date_format">EEEE dd MMMM yyyy, HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Effacer l\'historique</string>
   <!-- History: delete history dialog warning message -->

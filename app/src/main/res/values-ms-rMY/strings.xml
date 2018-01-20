@@ -99,4 +99,5 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Tiada</string>
   <!-- Search in page: search hint -->
+  <string name="search_bar_hint">Carikan</string>
 </resources>
