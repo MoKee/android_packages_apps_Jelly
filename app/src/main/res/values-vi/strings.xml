@@ -103,4 +103,6 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Không có</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Bỏ qua</string>
 </resources>

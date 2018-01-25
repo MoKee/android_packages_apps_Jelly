@@ -160,4 +160,6 @@
   <string name="suggestions_provider_none">Brak</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Szukaj</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Odrzuć</string>
 </resources>

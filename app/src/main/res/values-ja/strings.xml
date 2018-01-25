@@ -143,4 +143,6 @@
   <string name="suggestions_provider_none">なし</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">検索</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">閉じる</string>
 </resources>

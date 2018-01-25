@@ -100,4 +100,6 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Ниједно</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Одбаци</string>
 </resources>

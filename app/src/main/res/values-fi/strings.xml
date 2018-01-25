@@ -140,4 +140,6 @@
   <string name="suggestions_provider_none">Ei mitään</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Etsi</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Hylkää</string>
 </resources>

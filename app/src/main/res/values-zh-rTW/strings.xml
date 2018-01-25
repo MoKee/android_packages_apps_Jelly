@@ -160,4 +160,6 @@
   <string name="suggestions_provider_none">無</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">搜尋</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">略過</string>
 </resources>

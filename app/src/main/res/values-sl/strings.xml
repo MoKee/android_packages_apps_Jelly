@@ -158,4 +158,6 @@
   <string name="suggestions_provider_none">Brez</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Iskanje</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Opusti</string>
 </resources>

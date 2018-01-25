@@ -95,4 +95,6 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">Ništa</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Odbaci</string>
 </resources>

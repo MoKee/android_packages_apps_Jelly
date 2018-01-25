@@ -160,4 +160,6 @@
   <string name="suggestions_provider_none">Žiadny</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Hľadať</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Odmietnuť</string>
 </resources>

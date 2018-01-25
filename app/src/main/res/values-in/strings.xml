@@ -160,4 +160,6 @@
   <string name="suggestions_provider_none">Tidak ada</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Pencarian</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Abaikan</string>
 </resources>
