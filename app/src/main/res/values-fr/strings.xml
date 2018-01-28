@@ -118,7 +118,7 @@
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Effacer l\'historique</string>
   <!-- History: delete history dialog warning message -->
-  <string name="history_delete_message">Vous êtes sur le point de supprimer tout l’historique de navigation, cette action ne peut pas être annulée. Confirmer la suppression ?</string>
+  <string name="history_delete_message">Vous êtes sur le point de supprimer tout l’historique. Cette action ne peut pas être annulée. Souhaitez-vous poursuivre ?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Effacer</string>
   <!-- History: delete history "working" dialog-->
