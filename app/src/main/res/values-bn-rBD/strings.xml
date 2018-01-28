@@ -95,4 +95,5 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">কোনো কিছুই নয়</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
 </resources>

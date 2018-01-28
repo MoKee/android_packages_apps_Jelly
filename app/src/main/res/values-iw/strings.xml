@@ -157,4 +157,6 @@
   <string name="suggestions_provider_none">כלום</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">חיפוש</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">בטל</string>
 </resources>

@@ -159,4 +159,6 @@
   <string name="suggestions_provider_none">无</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">搜索</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">取消</string>
 </resources>

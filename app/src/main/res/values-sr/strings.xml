@@ -156,4 +156,6 @@
   <string name="suggestions_provider_none">Ниједан</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Претрага</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Одбаци</string>
 </resources>

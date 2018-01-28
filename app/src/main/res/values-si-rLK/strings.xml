@@ -94,4 +94,5 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">කිසිවක් නැත</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
 </resources>

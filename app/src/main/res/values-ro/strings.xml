@@ -155,4 +155,6 @@
   <string name="suggestions_provider_none">Niciunul</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Căutați</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Renunţaţi</string>
 </resources>

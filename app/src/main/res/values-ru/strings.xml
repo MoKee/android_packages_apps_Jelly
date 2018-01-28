@@ -159,4 +159,16 @@
   <string name="suggestions_provider_none">Не использовать</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Поиск на странице</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_title">Сведения о сертификате SSL</string>
+  <string name="ssl_cert_dialog_domain">Домен</string>
+  <string name="ssl_cert_dialog_issued_to">Кому выдан</string>
+  <string name="ssl_cert_dialog_issued_by">Кем выдан</string>
+  <string name="ssl_cert_dialog_validity">Срок действия</string>
+  <string name="ssl_cert_dialog_common_name">Общее имя (ОИ)</string>
+  <string name="ssl_cert_dialog_organization">Организация (О)</string>
+  <string name="ssl_cert_dialog_organizational_unit">Отдел организации (ОО)</string>
+  <string name="ssl_cert_dialog_issued_on">Когда выдан:</string>
+  <string name="ssl_cert_dialog_expires_on">Срок действия</string>
+  <string name="ssl_cert_dialog_dismiss">Отклонить</string>
 </resources>

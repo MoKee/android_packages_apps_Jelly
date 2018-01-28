@@ -159,4 +159,6 @@
   <string name="suggestions_provider_none">Жоден</string>
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Шукати</string>
+  <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_dismiss">Відхилити</string>
 </resources>

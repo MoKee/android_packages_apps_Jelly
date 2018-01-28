@@ -93,4 +93,5 @@
   <!-- Suggestions provider: no suggestions provider -->
   <string name="suggestions_provider_none">တစ်ခုမှမဟုတ်ပါ</string>
   <!-- Search in page: search hint -->
+  <!-- SSL Certificate Details dialog -->
 </resources>
