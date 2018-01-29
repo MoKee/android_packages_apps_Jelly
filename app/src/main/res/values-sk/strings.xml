@@ -167,7 +167,7 @@
   <string name="ssl_cert_dialog_validity">Doba platnosti</string>
   <string name="ssl_cert_dialog_common_name">Bežný názov (CN)</string>
   <string name="ssl_cert_dialog_organization">Organizácia (O)</string>
-  <string name="ssl_cert_dialog_organizational_unit">Organizačná jednotka (OSN)</string>
+  <string name="ssl_cert_dialog_organizational_unit">Organizačná jednotka (UN)</string>
   <string name="ssl_cert_dialog_issued_on">Vydané</string>
   <string name="ssl_cert_dialog_expires_on">Platnosť končí</string>
   <string name="ssl_cert_dialog_dismiss">Odmietnuť</string>

@@ -160,5 +160,15 @@
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Ara</string>
   <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_title">SSL Sertifikası Ayrıntıları</string>
+  <string name="ssl_cert_dialog_domain">Alan Adı</string>
+  <string name="ssl_cert_dialog_issued_to">Verilen</string>
+  <string name="ssl_cert_dialog_issued_by">Tarafınından verildi</string>
+  <string name="ssl_cert_dialog_validity">Geçerlilik süresi</string>
+  <string name="ssl_cert_dialog_common_name">Ortak Ad (CN)</string>
+  <string name="ssl_cert_dialog_organization">Organizasyon (O)</string>
+  <string name="ssl_cert_dialog_organizational_unit">Organizasyon Birimi (UN)</string>
+  <string name="ssl_cert_dialog_issued_on">Verilme</string>
+  <string name="ssl_cert_dialog_expires_on">Sona erme tarihi</string>
   <string name="ssl_cert_dialog_dismiss">Yoksay</string>
 </resources>
