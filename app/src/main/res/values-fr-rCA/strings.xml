@@ -119,7 +119,7 @@
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Effacer l\'historique</string>
   <!-- History: delete history dialog warning message -->
-  <string name="history_delete_message">Vous êtes sur le point de supprimer tout l’historique de navigation, cette action ne peut pas être annulée. Confirmer la suppression ?</string>
+  <string name="history_delete_message">Vous êtes sur le point de supprimer tout l’historique. Cette action ne peut pas être annulée. Souhaitez-vous poursuivre ?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Effacer</string>
   <!-- History: delete history "working" dialog-->
@@ -131,13 +131,13 @@
   <!-- Favorite: empty status text -->
   <string name="favorite_empty">Il n’y a rien ici, ajouter des favoris pour les voir ici</string>
   <!-- Favorite: edit dialog title -->
-  <string name="favorite_edit_dialog_title">Modifier favori</string>
+  <string name="favorite_edit_dialog_title">Modifier le favori</string>
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Titre</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
-  <string name="favorite_edit_positive">Édition</string>
+  <string name="favorite_edit_positive">Modifier</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <string name="favorite_edit_delete">Supprimer</string>
   <!-- Favorite: edit dialog: invalid url error message -->

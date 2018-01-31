@@ -161,5 +161,15 @@
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Hanapin</string>
   <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_title">Detalye ng SSL Certificate</string>
+  <string name="ssl_cert_dialog_domain">Domain</string>
+  <string name="ssl_cert_dialog_issued_to">Iginawad kay</string>
+  <string name="ssl_cert_dialog_issued_by">Iginawad ni</string>
+  <string name="ssl_cert_dialog_validity">Hanggang ganitong panahon</string>
+  <string name="ssl_cert_dialog_common_name">Pangkaraniwang Pangalan</string>
+  <string name="ssl_cert_dialog_organization">Organisasyon</string>
+  <string name="ssl_cert_dialog_organizational_unit">Organizational Unit (UN)</string>
+  <string name="ssl_cert_dialog_issued_on">Iginawad noong</string>
+  <string name="ssl_cert_dialog_expires_on">Matatapos na sa</string>
   <string name="ssl_cert_dialog_dismiss">Alisin</string>
 </resources>
