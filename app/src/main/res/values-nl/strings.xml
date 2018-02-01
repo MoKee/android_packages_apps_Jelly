@@ -161,5 +161,6 @@
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Zoeken</string>
   <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_domain">Domein</string>
   <string name="ssl_cert_dialog_dismiss">Sluiten</string>
 </resources>
