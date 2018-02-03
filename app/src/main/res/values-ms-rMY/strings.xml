@@ -132,6 +132,7 @@
   <string name="favorite_empty">Tiada apa apa di sini, tambahkan pautan kegemaran untuk melihatnya di sini</string>
   <!-- Favorite: edit dialog title -->
   <!-- Favorite: edit dialog: title of the favorite -->
+  <string name="favorite_edit_title">Tajuk</string>
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Ubah</string>
