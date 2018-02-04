@@ -15,29 +15,41 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Browser</string>
   <!-- Menu action: create new tab -->
+  <string name="menu_new_tab">Tab Nou</string>
   <!-- Menu action: create new incognito tab -->
+  <string name="menu_incognito">Tab incognito</string>
   <!-- Menu action: reload current page -->
+  <string name="menu_reload">Reîncarcă</string>
   <!-- Menu action: add current page to favorites -->
+  <string name="menu_fav_add">Adaugă la favorite</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">Distribuiţi</string>
   <!-- Menu action: show favorites list -->
+  <string name="menu_favorites">Favorite</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">Istorie</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
+  <string name="menu_shortcut">Adaugă scurtătură</string>
   <!-- Menu action: show settings -->
   <string name="menu_settings">Setări</string>
   <!-- Menu action: download selected file / image -->
   <string name="menu_download">Descarcă</string>
   <!-- Menu action: open selected link in a new tab -->
+  <string name="menu_in_new_tab">Deschide în tab nou</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">Comutare la site-ul pentru desktop</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">Comutare la site-ul pentru mobil</string>
   <!-- Menu action: search in page -->
   <string name="menu_search">Căutaţi în pagină</string>
   <!-- Share webPage: "send to" dialog title -->
+  <string name="share_title">Trimite la</string>
   <!-- Dialog action: dismiss -->
   <string name="dismiss">Renunţaţi</string>
   <!-- Download dialog: title -->
+  <string name="download_title">Descarcă fișier</string>
   <!-- Download dialog: message -->
   <!-- Download dialog: button that starts the download -->
   <string name="download_positive">Descarcă</string>
@@ -82,6 +94,7 @@
   <string name="history_delete_positive">Curățare</string>
   <!-- History: delete history "working" dialog-->
   <!-- Favorite: title -->
+  <string name="favorite_title">Favorite</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <!-- Favorite: empty status text -->
   <!-- Favorite: edit dialog title -->
