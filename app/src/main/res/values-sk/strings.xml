@@ -171,5 +171,5 @@
   <string name="ssl_cert_dialog_organizational_unit">Organizačná jednotka (OSN)</string>
   <string name="ssl_cert_dialog_issued_on">Vydané</string>
   <string name="ssl_cert_dialog_expires_on">Platnosť končí</string>
-  <string name="ssl_cert_dialog_dismiss">Odmietnuť</string>
+  <string name="ssl_cert_dialog_dismiss">Zrušiť</string>
 </resources>
