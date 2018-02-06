@@ -606,6 +606,7 @@ public class MainActivity extends WebViewExtActivity implements
         mLoadingProgress.postInvalidate();
 
         getWindow().setStatusBarColor(color);
+        getWindow().setNavigationBarColor(color);
 
         int flags = getWindow().getDecorView().getSystemUiVisibility();
         if (UiUtils.isColorLight(color)) {
