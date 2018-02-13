@@ -39,7 +39,9 @@
   <!-- Menu action: open selected link in a new tab -->
   <string name="menu_in_new_tab">Odpri v novem zavihku</string>
   <!-- Menu action: enable desktop mode -->
+  <string name="menu_desktop_mode">Preklopi na namiz. stran</string>
   <!-- Menu action: enable phone mode -->
+  <string name="menu_mobile_mode">Preklopi na mob. stran</string>
   <!-- Menu action: search in page -->
   <string name="menu_search">Najdi na strani</string>
   <!-- Share webPage: "send to" dialog title -->
@@ -159,5 +161,15 @@
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Iskanje</string>
   <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_title">Podrobnosti potrdila SSL</string>
+  <string name="ssl_cert_dialog_domain">Domena</string>
+  <string name="ssl_cert_dialog_issued_to">Izdano za</string>
+  <string name="ssl_cert_dialog_issued_by">Izdal</string>
+  <string name="ssl_cert_dialog_validity">Obdobje veljavnosti</string>
+  <string name="ssl_cert_dialog_common_name">Splošno ime (CN)</string>
+  <string name="ssl_cert_dialog_organization">Organizacija (O)</string>
+  <string name="ssl_cert_dialog_organizational_unit">Organizacijska enota (UN)</string>
+  <string name="ssl_cert_dialog_issued_on">Izdano</string>
+  <string name="ssl_cert_dialog_expires_on">Poteče</string>
   <string name="ssl_cert_dialog_dismiss">Opusti</string>
 </resources>
