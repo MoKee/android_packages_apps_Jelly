@@ -86,6 +86,7 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <!-- Favorite: edit dialog: url of the favorite-->
   <!-- Favorite: edit dialog positive button that save changes -->
+  <string name="favorite_edit_positive">Edit</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <!-- Favorite: edit dialog: invalid url error message -->
   <!-- No activity found to open the given url error -->
