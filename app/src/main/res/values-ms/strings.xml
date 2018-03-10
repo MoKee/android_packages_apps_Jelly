@@ -105,8 +105,6 @@
   <string name="pref_do_not_track_title">Jangan mengesan</string>
   <!-- Settings: do not track preference summary -->
   <string name="pref_do_not_track_summary">Hantar permintaan Do Not Track ke laman web yang anda lawati</string>
-  <!-- Settings: save form data title -->
-  <string name="pref_save_form_data_title">Simpan borang data</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Pembekal cadangan</string>
   <!-- History: title -->

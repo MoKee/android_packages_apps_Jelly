@@ -105,8 +105,6 @@
   <string name="pref_do_not_track_title">Не адсочваць</string>
   <!-- Settings: do not track preference summary -->
   <string name="pref_do_not_track_summary">Адправіць запыт Не адсочваць на вэб-сайты, якія вы наведваеце</string>
-  <!-- Settings: save form data title -->
-  <string name="pref_save_form_data_title">Захаваць на дыску</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Пастаўшчык пошукавых прапаноў</string>
   <!-- History: title -->
