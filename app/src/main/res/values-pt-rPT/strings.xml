@@ -78,9 +78,11 @@
   <!-- Settings: privacy and security category -->
   <string name="pref_privacy_security">Privacidade e segurança</string>
   <!-- Settings: lookLock title -->
+  <string name="pref_looklock_title">LookLock</string>
   <!-- Settings: lookLock summary -->
   <string name="pref_looklock_summary">Impedir que outras aplicações leiam o conteúdo do Navegador</string>
   <!-- Settings: javascript preference title -->
+  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">Ativar JavaScript</string>
   <!-- Settings: location preference title -->
@@ -88,6 +90,7 @@
   <!-- Settings: location preference summary. Note that this doesn't allow permission access to the websites, but just allows the possibility of requesting access to it -->
   <string name="pref_location_summary">Permitir que as páginas solicitem acesso à sua localização</string>
   <!-- Settings: cookie preference title -->
+  <string name="pref_cookie_title">Bolachas</string>
   <!-- Settings: cookie preference summary -->
   <string name="pref_cookie_summary">Permitir às páginas guardar e ler dados dos cookies</string>
   <!-- Settings: advanced share preference title -->
@@ -129,6 +132,7 @@
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Título</string>
   <!-- Favorite: edit dialog: url of the favorite-->
+  <string name="favorite_edit_url">URL</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Editar</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
