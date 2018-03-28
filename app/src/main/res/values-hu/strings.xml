@@ -58,9 +58,11 @@
   <!-- Permission error dialog: title -->
   <string name="permission_error_title">Jogosultság hiba</string>
   <!-- Permission error dialog: message for denied storage access-->
+  <string name="permission_error_storage">A böngészőnek tárhelyhozzáférésre van szüksége fájlletöltéshez. Adjon engedélyt, hogy fájlokat menthessen az internetről</string>
   <!-- Permission error dialog: button that triggers permission request again -->
   <string name="permission_error_ask_again">Kérdezze meg újra</string>
   <!-- Permission error snackBar: the permission has been denied until user enables it in settings -->
+  <string name="permission_error_forever">A jogosultság véglegesen megtagadva. Engedélyezze a Beállításokban</string>
   <!-- Settings: title -->
   <string name="settings_title">Beállítások</string>
   <!-- Settings: search engine preference title -->
@@ -68,14 +70,19 @@
   <!-- Settings: home page preference title -->
   <string name="pref_start_page">Kezdőoldal</string>
   <!-- Settings: select home page dialog title -->
+  <string name="pref_start_page_dialog_title">Kezdőlap kiválasztása</string>
   <!-- Settings: select home page dialog message -->
+  <string name="pref_start_page_dialog_message">Írja be a kezdőlap webcímét</string>
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Visszaállitás</string>
   <!-- Settings: privacy and security category -->
   <string name="pref_privacy_security">Adatvédelem és biztonság</string>
   <!-- Settings: lookLock title -->
+  <string name="pref_looklock_title">LookLock</string>
   <!-- Settings: lookLock summary -->
+  <string name="pref_looklock_summary">Más alkalmazások ne olvashassák be a böngésző tartalmát</string>
   <!-- Settings: javascript preference title -->
+  <string name="pref_js_title">JavaScript</string>
   <!-- Settings: javascript preference summary -->
   <string name="pref_js_summary">JavaScript engedélyezése</string>
   <!-- Settings: location preference title -->
@@ -89,21 +96,27 @@
   <!-- Settings: advanced share preference title -->
   <string name="pref_screenshot_snap_title">Speciális megosztás</string>
   <!-- Settings: advanced share preference summary -->
+  <string name="pref_screenshot_snap_summary">Megosztott weboldal előnézetének megosztása</string>
   <!-- Settings: clear cookie -->
   <string name="pref_cookie_clear">Sütik törlése</string>
   <!-- Settings: clear cookie toast confirmation -->
+  <string name="pref_cookie_clear_done">Összes süti törölésre került</string>
   <!-- Settings: do not track preference title -->
   <string name="pref_do_not_track_title">Ne kövesse nyomon</string>
   <!-- Settings: do not track preference summary -->
+  <string name="pref_do_not_track_summary">\"Ne kövessen nyomon\" kérés kiadása a meglátogatott weboldalaknak</string>
   <!-- Settings: suggestions provider title -->
+  <string name="pref_suggestions_provider">Keresési javaslatok szolgáltatója</string>
   <!-- History: title -->
   <string name="history_title">Előzmények</string>
   <!-- History: empty status text -->
+  <string name="history_empty">Itt nincs semmi. Előbb Böngésszen az interneten, hogy legyenek itt előzmények</string>
   <!-- History: date format for items. EEEE = day (Monday), MMMM = month (January), yyyy = year (1970), HH = hour (12), mm = minutes (30) -->
   <string name="history_date_format">EEEE, yyyy. MMMM dd., HH:mm</string>
   <!-- History: delete history dialog title -->
   <string name="history_delete_title">Előzmények törlése</string>
   <!-- History: delete history dialog warning message -->
+  <string name="history_delete_message">Az összes előzmény törlésére készül, ez a művelet nem vonható vissza. Szeretné folytatni?</string>
   <!-- History: delete history dialog button that erases all the history -->
   <string name="history_delete_positive">Törlés</string>
   <!-- History: delete history "working" dialog-->
@@ -113,17 +126,21 @@
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <string name="favorite_added">Hozzáadva a kedvencekhez</string>
   <!-- Favorite: empty status text -->
+  <string name="favorite_empty">Itt nincs semmi. Előbb adjon linkeket a kedvencekhez, hogy később itt megtalálja őket</string>
   <!-- Favorite: edit dialog title -->
   <string name="favorite_edit_dialog_title">Kedvenc szerkesztése</string>
   <!-- Favorite: edit dialog: title of the favorite -->
   <string name="favorite_edit_title">Cím</string>
   <!-- Favorite: edit dialog: url of the favorite-->
+  <string name="favorite_edit_url">Webcím</string>
   <!-- Favorite: edit dialog positive button that save changes -->
   <string name="favorite_edit_positive">Szerkesztés</string>
   <!-- Favorite: edit dialog button that deletes the selected favorite -->
   <string name="favorite_edit_delete">Törlés</string>
   <!-- Favorite: edit dialog: invalid url error message -->
+  <string name="favorite_edit_error">Írjon be érvényes webcímet</string>
   <!-- No activity found to open the given url error -->
+  <string name="error_no_activity_found">Egyik alkalmazás sem tudja kezelni ezt a linket</string>
   <!-- Auth dialog: title -->
   <string name="auth_dialog_title">Hitelesítés Szükséges</string>
   <!-- Auth dialog: username field -->
@@ -131,6 +148,7 @@
   <!-- Auth dialog: password field -->
   <string name="auth_dialog_password">Jelszó:</string>
   <!-- Auth dialog: detail -->
+  <string name="auth_dialog_detail">%1$s felhasználónevet és jelszót igényel.</string>
   <!-- Auth dialog: login button -->
   <string name="auth_dialog_login">Bejelentkezés</string>
   <!-- Launcher shortcut: new incognito tab -->
@@ -140,5 +158,15 @@
   <!-- Search in page: search hint -->
   <string name="search_bar_hint">Keresés</string>
   <!-- SSL Certificate Details dialog -->
+  <string name="ssl_cert_dialog_title">SSL Tanúsítvány részletei</string>
+  <string name="ssl_cert_dialog_domain">Domain név</string>
+  <string name="ssl_cert_dialog_issued_to">Birtokába</string>
+  <string name="ssl_cert_dialog_issued_by">Kibocsájtó</string>
+  <string name="ssl_cert_dialog_validity">Érvényességi idő</string>
+  <string name="ssl_cert_dialog_common_name">Köznapi név (CN)</string>
+  <string name="ssl_cert_dialog_organization">Szervezet (O)</string>
+  <string name="ssl_cert_dialog_organizational_unit">Szervezeti Egység (UN)</string>
+  <string name="ssl_cert_dialog_issued_on">Kiadva ekkor</string>
+  <string name="ssl_cert_dialog_expires_on">Lejár</string>
   <string name="ssl_cert_dialog_dismiss">Elvetés</string>
 </resources>
