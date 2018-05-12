@@ -23,11 +23,11 @@
   <!-- Menu action: reload current page -->
   <string name="menu_reload">Yenile</string>
   <!-- Menu action: add current page to favorites -->
-  <string name="menu_fav_add">Sık Kullanılanlara Ekle</string>
+  <string name="menu_fav_add">Favorilere ekle</string>
   <!-- Menu action: share current page -->
   <string name="menu_share">Paylaş</string>
   <!-- Menu action: show favorites list -->
-  <string name="menu_favorites">Sık Kullanılanlar</string>
+  <string name="menu_favorites">Favoriler</string>
   <!-- Menu action: show history list -->
   <string name="menu_history">Geçmiş</string>
   <!-- Menu action: add shortcut of the current page to the launcher -->
@@ -47,7 +47,7 @@
   <!-- Share webPage: "send to" dialog title -->
   <string name="share_title">Gönder</string>
   <!-- Dialog action: dismiss -->
-  <string name="dismiss">Yoksay</string>
+  <string name="dismiss">Reddet</string>
   <!-- Download dialog: title -->
   <string name="download_title">Dosyayı indir</string>
   <!-- Download dialog: message -->
@@ -69,15 +69,15 @@
   <!-- Settings: search engine preference title -->
   <string name="pref_search_engine">Arama motoru</string>
   <!-- Settings: home page preference title -->
-  <string name="pref_start_page">Ana Sayfa</string>
+  <string name="pref_start_page">Ana sayfa</string>
   <!-- Settings: select home page dialog title -->
-  <string name="pref_start_page_dialog_title">Ana sayfayı seçin</string>
+  <string name="pref_start_page_dialog_title">Ana sayfa seçin</string>
   <!-- Settings: select home page dialog message -->
-  <string name="pref_start_page_dialog_message">Giriş sayfası URL\'sini yazmak</string>
+  <string name="pref_start_page_dialog_message">Ana sayfa URL\'sini yazın</string>
   <!-- Settings: reset home page dialog action -->
   <string name="pref_start_page_dialog_reset">Sıfırla</string>
   <!-- Settings: privacy and security category -->
-  <string name="pref_privacy_security">Gizlilik &amp; güvenlik</string>
+  <string name="pref_privacy_security">Gizlilik ve güvenlik</string>
   <!-- Settings: lookLock title -->
   <string name="pref_looklock_title">Kilit Görünümü</string>
   <!-- Settings: lookLock summary -->
@@ -121,11 +121,11 @@
   <!-- History: delete history dialog warning message -->
   <string name="history_delete_message">Tüm geçmişini silmek için gidiyoruz, bu eylem geri alınamaz. Devam etmek istiyor musunuz?</string>
   <!-- History: delete history dialog button that erases all the history -->
-  <string name="history_delete_positive">Temiz</string>
+  <string name="history_delete_positive">Temizle</string>
   <!-- History: delete history "working" dialog-->
   <string name="history_deleting_message">Geçmiş temizleniyor\u2026</string>
   <!-- Favorite: title -->
-  <string name="favorite_title">Sık Kullanılanlar</string>
+  <string name="favorite_title">Favoriler</string>
   <!-- Favorite: snackBar message shown when an url is added to favorites -->
   <string name="favorite_added">Favorilere eklendi</string>
   <!-- Favorite: empty status text -->
@@ -153,7 +153,7 @@
   <!-- Auth dialog: detail -->
   <string name="auth_dialog_detail">%1$s bir kullanıcı adı ve şifre gerektirir.</string>
   <!-- Auth dialog: login button -->
-  <string name="auth_dialog_login">Giriş Yap</string>
+  <string name="auth_dialog_login">Oturum aç</string>
   <!-- Launcher shortcut: new incognito tab -->
   <string name="shortcut_new_incognito_tab">Yeni gizli sekme</string>
   <!-- Suggestions provider: no suggestions provider -->
@@ -162,8 +162,8 @@
   <string name="search_bar_hint">Ara</string>
   <!-- SSL Certificate Details dialog -->
   <string name="ssl_cert_dialog_title">SSL Sertifikası Ayrıntıları</string>
-  <string name="ssl_cert_dialog_domain">Alan Adı</string>
-  <string name="ssl_cert_dialog_issued_to">Verilme</string>
+  <string name="ssl_cert_dialog_domain">Alan adı</string>
+  <string name="ssl_cert_dialog_issued_to">Verilen</string>
   <string name="ssl_cert_dialog_issued_by">Verildi</string>
   <string name="ssl_cert_dialog_validity">Geçerlilik süresi</string>
   <string name="ssl_cert_dialog_common_name">Ortak Ad (CN)</string>
@@ -171,5 +171,5 @@
   <string name="ssl_cert_dialog_organizational_unit">Organizasyon Birimi (UN)</string>
   <string name="ssl_cert_dialog_issued_on">Çıkış tarihi</string>
   <string name="ssl_cert_dialog_expires_on">Sona erme tarihi</string>
-  <string name="ssl_cert_dialog_dismiss">Yoksay</string>
+  <string name="ssl_cert_dialog_dismiss">Reddet</string>
 </resources>
