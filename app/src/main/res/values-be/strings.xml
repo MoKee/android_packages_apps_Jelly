@@ -107,6 +107,9 @@
   <string name="pref_do_not_track_summary">Адправіць запыт Не адсочваць на вэб-сайты, якія вы наведваеце</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Пастаўшчык пошукавых прапаноў</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
+  <string name="pref_reach_mode_summary">Змена размяшчэння элементаў інтэрфейсу для зручнага кіравання адной рукой</string>
   <!-- History: title -->
   <string name="history_title">Гісторыя</string>
   <!-- History: empty status text -->

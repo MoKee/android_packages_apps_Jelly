@@ -107,6 +107,10 @@
   <string name="pref_do_not_track_summary">إرسال طلب \"لا تتبع\" لمواقع الويب التي تزورها</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">مُوفر الاقتراحات</string>
+  <!-- Settings: reach mode title -->
+  <string name="pref_reach_mode_title">وضع الوصول</string>
+  <!-- Settings: reach mode summary -->
+  <string name="pref_reach_mode_summary">نقل مواقع عناصر الواجهة لتسهيل الاستخدام بيد واحدة</string>
   <!-- History: title -->
   <string name="history_title">السجل</string>
   <!-- History: empty status text -->

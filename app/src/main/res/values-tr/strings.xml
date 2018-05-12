@@ -107,6 +107,8 @@
   <string name="pref_do_not_track_summary">Ziyaret ettiğiniz web sitelerine takip edilme isteği gönderme</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Öneri sağlayıcı</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">Geçmiş</string>
   <!-- History: empty status text -->

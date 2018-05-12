@@ -107,6 +107,8 @@
   <string name="pref_do_not_track_summary">Trimite o cerere Nu Urmări site-urilor web pe care le vizitați</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Furnizor de sugestii</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">Istoric</string>
   <!-- History: empty status text -->

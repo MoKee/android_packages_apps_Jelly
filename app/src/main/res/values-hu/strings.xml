@@ -107,6 +107,10 @@
   <string name="pref_do_not_track_summary">\"Ne kövessen nyomon\" kérés kiadása a meglátogatott weboldalaknak</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Keresési javaslatok szolgáltatója</string>
+  <!-- Settings: reach mode title -->
+  <string name="pref_reach_mode_title">Elérhető mód</string>
+  <!-- Settings: reach mode summary -->
+  <string name="pref_reach_mode_summary">Helyezze át a kezelőelemeket a könnyebb egykezes használat érdekében</string>
   <!-- History: title -->
   <string name="history_title">Előzmények</string>
   <!-- History: empty status text -->

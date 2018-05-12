@@ -107,6 +107,8 @@
   <string name="pref_do_not_track_summary">发送“不跟踪”请求到您浏览的网站</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">建议提供商</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">历史记录</string>
   <!-- History: empty status text -->

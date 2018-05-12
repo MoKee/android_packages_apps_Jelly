@@ -107,6 +107,8 @@
   <string name="pref_do_not_track_summary">Magpadala ng isang Huwag na i-track na request sa mga website na iyong binisita</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Mga mungkahi nagpapakaloob</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">Kasaysayan</string>
   <!-- History: empty status text -->

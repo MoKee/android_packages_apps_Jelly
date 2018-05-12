@@ -105,6 +105,8 @@
   <string name="pref_do_not_track_summary">Αποστολή ενός αιτήματος Do Not Track στις ιστοσελίδες που επισκέπτεστε</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Πάροχος προτάσεων</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">Ιστορικό</string>
   <!-- History: empty status text -->

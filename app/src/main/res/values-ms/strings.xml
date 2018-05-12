@@ -107,6 +107,8 @@
   <string name="pref_do_not_track_summary">Hantar permintaan Do Not Track ke laman web yang anda lawati</string>
   <!-- Settings: suggestions provider title -->
   <string name="pref_suggestions_provider">Pembekal cadangan</string>
+  <!-- Settings: reach mode title -->
+  <!-- Settings: reach mode summary -->
   <!-- History: title -->
   <string name="history_title">Sejarah</string>
   <!-- History: empty status text -->
